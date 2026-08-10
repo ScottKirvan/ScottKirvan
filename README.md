@@ -1,17 +1,18 @@
 ## Hi there 👋
 
+#tag 
 
  # Scooter Utilities  [![starline](https://raw.githubusercontent.com/ScottKirvan/ScooterUtils/refs/heads/starlines/ScottKirvan/ScooterUtils/starline.svg)](https://github.com/qoomon/starlines)
 
 <img src="https://raw.githubusercontent.com/ScottKirvan/QuKi-Notes/main/media/QuKiNotes_v2_Rainbow.svg" alt="QuKi Notes logo" width="200" />
 
-<details><summary><h2> Unreal Engine </h2></summary>
-<ul>
+<details open><summary><h2> Unreal Engine </h2></summary>
+
   # Scooter Utilities  [![starline](https://raw.githubusercontent.com/ScottKirvan/ScooterUtils/refs/heads/starlines/ScottKirvan/ScooterUtils/starline.svg)](https://github.com/qoomon/starlines)
 
   <img src="https://raw.githubusercontent.com/ScottKirvan/QuKi-Notes/main/media/QuKiNotes_v2_Rainbow.svg" alt="QuKi Notes logo" width="200" />
 
-
+<ul>
 <img src="https://github.com/ScottKirvan/GitHubDHC/blob/main/imgs/screenshots/GHDC1.png?raw=true">  
 <img src="https://github.com/ScottKirvan/GitHubDHC/blob/main/imgs/screenshots/GHDC2.png?raw=true">  
 <img src="https://github.com/ScottKirvan/GitHubDHC/blob/main/imgs/screenshots/settings.png?raw=true">  
