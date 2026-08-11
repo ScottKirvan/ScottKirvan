@@ -7,20 +7,22 @@
 
 discord, forums. sponsor. 
 
-<details open><summary><h2>🎮 Unreal Engine</h3></summary>
+<details open><summary><h2>🎮 Unreal Engine</h2></summary>
 
 ### [ScooterUtils](https://github.com/ScottKirvan/ScooterUtils) <img src="https://raw.githubusercontent.com/ScottKirvan/ScooterUtils/refs/heads/starlines/ScottKirvan/ScooterUtils/starline.svg" alt="starline" height="36"/> <br>
 Unreal Engine editor plugin bundling quality-of-life tools for artists and developers — quick file navigation, one-click project restart/reload, persistent editor settings.
 <img src="https://api.iconify.design/lucide:sparkles.svg?color=white" /> 38 &nbsp; &nbsp;
 <a href="http://www.scottkirvan.com/ScooterUtils/"><img src="https://api.iconify.design/lucide:book-open.svg?color=white" /></a>
-<img src="https://raw.githubusercontent.com/ScottKirvan/ScottKirvan/ea954c445b198343d26a655cb771d8522b4253a7/assets/media/unrealengine.svg" alt="Unreal Engine logo" width="48" />   
-<img src="https://raw.githubusercontent.com/ScottKirvan/ScottKirvan/ea954c445b198343d26a655cb771d8522b4253a7/assets/media/cplusplus.svg" alt="C++ logo" width="48" />
+<img src="assets/media/unrealengine-black.svg#gh-light-mode-only" alt="Unreal Engine logo" width="48" />
+<img src="assets/media/unrealengine.svg#gh-dark-mode-only" alt="Unreal Engine logo" width="48" />
+<img src="assets/media/cplusplus.svg" alt="C++ logo" width="48" />
 
-<img
-  src="https://raw.githubusercontent.com/ScottKirvan/ScottKirvan/ea954c445b198343d26a655cb771d8522b4253a7/assets/media/unrealengine.svg"
-  alt="Unreal Engine logo"
-  width="120"
-/>
+<img src="assets/media/unrealengine-black.svg#gh-light-mode-only" alt="Unreal Engine logo" width="120" />
+<img src="assets/media/unrealengine.svg#gh-dark-mode-only" alt="Unreal Engine logo" width="120" />
+
+test
+
+<img src="assets/media/unrealengine.svg" alt="Unreal Engine logo" width="120" />
 
 
 ### [ScooterUtils](https://github.com/ScottKirvan/ScooterUtils)[![starline](https://raw.githubusercontent.com/ScottKirvan/ScooterUtils/refs/heads/starlines/ScottKirvan/ScooterUtils/starline.svg)](https://github.com/qoomon/starlines)
