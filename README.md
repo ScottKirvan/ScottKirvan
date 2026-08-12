@@ -1,24 +1,32 @@
 ## Hi there 
 
-<img src="https://gitranks.com/api/badge/v2/ScottKirvan?ranking=s&context=global&type=percentile&meta=none&label=Stars+Rank&cornerStyle=rounded&labelBgColor=%235c5c5c&valueBgColor=%237c3aed" />
-<img src="https://gitranks.com/api/badge/v2/ScottKirvan?ranking=s&context=global&type=tier&meta=none&label=Stars+Rank&cornerStyle=rounded&labelBgColor=%235c5c5c&valueBgColor=%237c3aed" />
+<img src="https://gitranks.com/api/badge/v2/ScottKirvan?ranking=s&context=global&type=percentile&meta=none&label=Stars+Rank&cornerStyle=rounded&labelBgColor=%235c5c5c&valueBgColor=%237c3aed" /> <img src="https://gitranks.com/api/badge/v2/ScottKirvan?ranking=s&context=global&type=tier&meta=none&label=Stars+Rank&cornerStyle=rounded&labelBgColor=%235c5c5c&valueBgColor=%237c3aed" />
 
-discord, forums. sponsor. 
-<table><tr><td>
-## Featured/Active Projects:
-</td></tr></table>
+<table><tr><td>discord</td></tr></table><table><tr><td>discord</td></tr></table>,forums. sponsor. 
 
-### [<sub><img src="assets/media/QuKiNotes_small.svg" width="24"/></sub><sup>QuKi-Notes</sup>](https://github.com/ScottKirvan/QuKi-Notes) <img src="https://raw.githubusercontent.com/ScottKirvan/QuKi-Notes/refs/heads/starlines/ScottKirvan/QuKi-Notes/starline.svg" alt="starline" height="36"/> 
-Cross-platform, zero-friction scratchpad, pasteboard, & Blank canvas. For the thought that won't wait.<br>
-<img src="https://api.iconify.design/lucide:sparkles.svg?color=white" /> 1 &nbsp; &nbsp;
+# Featured/Active Projects:
+<h3><a href="https://github.com/ScottKirvan/QuKi-Notes">
+<img src="assets/media/QuKiNotes_small.svg" width="24"/><sup>QuKi-Notes</sup> 
+<img src="https://raw.githubusercontent.com/ScottKirvan/QuKi-Notes/refs/heads/starlines/ScottKirvan/QuKi-Notes/starline.svg" alt="starline" height="36"/></a></h3>
+Cross-platform, zero-friction scratchpad, pasteboard, & Blank canvas. For the thought that won't wait.
+<img src="https://api.iconify.design/lucide:sparkles.svg?color=white" />1
 <a href="https://scottkirvan.github.io/QuKi-Notes/"><img src="https://api.iconify.design/lucide:book-open.svg?color=white" width="24"/></a>
 <a href="https://discord.gg/TN6XJSNK5Y"><img src="assets/media/discord-black.svg#gh-light-mode-only" alt="Discord logo" width="24" />
 <img src="assets/media/discord.svg#gh-dark-mode-only" alt="Discord logo" width="24" /></a>
-<a href="https://github.com/topics/obsidian"><img src="assets/media/obsidian-black.svg#gh-light-mode-only" alt="Obsidian logo" width="24" />
-<img src="assets/media/obsidian.svg#gh-dark-mode-only" alt="Obsidian logo" width="24" /></a>
 <a href="https://github.com/topics/flutter"><img src="assets/media/flutter-black.svg#gh-light-mode-only" alt="Flutter logo" width="24" />
 <img src="assets/media/flutter.svg#gh-dark-mode-only" alt="Flutter logo" width="24" /></a>
 markdown, windows, linux, android
+
+
+
+<img src="assets/media/QuKiNotes_small.svg" width="120" align="left" />
+<h3><a href="https://github.com/ScottKirvan/QuKi-Notes">QuKi Notes
+<img src="https://raw.githubusercontent.com/ScottKirvan/QuKi-Notes/refs/heads/starlines/ScottKirvan/QuKi-Notes/starline.svg" alt="starline" height="36"/></a></h3>
+Cross-platform, zero-friction scratchpad, pasteboard, & Blank canvas. For the thought that won't wait.<br>
+postamble<br>
+line one<br>
+line two <br>
+
 
 
 <!--
