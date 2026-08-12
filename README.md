@@ -3,7 +3,7 @@
 <img src="https://gitranks.com/api/badge/v2/ScottKirvan?ranking=s&context=global&type=percentile&meta=none&label=Stars+Rank&cornerStyle=rounded&labelBgColor=%235c5c5c&valueBgColor=%237c3aed" /> <img src="https://gitranks.com/api/badge/v2/ScottKirvan?ranking=s&context=global&type=tier&meta=none&label=Stars+Rank&cornerStyle=rounded&labelBgColor=%235c5c5c&valueBgColor=%237c3aed" />
 
 
-# Featured/Active Projects:
+# Featured Project:
 
 <img src="assets/media/QuKiNotes_v2_Rainbow.svg" width="120" align="left" border="0" /><h3><a href="https://github.com/ScottKirvan/QuKi-Notes">QuKi Notes<img src="https://raw.githubusercontent.com/ScottKirvan/QuKi-Notes/refs/heads/starlines/ScottKirvan/QuKi-Notes/starline.svg" alt="starline" height="36"/></a></h3>
 Cross-platform, zero-friction scratchpad, pasteboard, & blank canvas.<br>
