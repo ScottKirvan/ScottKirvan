@@ -18,9 +18,17 @@ Cross-platform, zero-friction scratchpad, pasteboard, & Blank canvas. For the th
 markdown, windows, linux, android
 
 
+<h3><img src="assets/media/QuKiNotes_v2_Rainbow.svg" width="120" align="left" />
+<a href="https://github.com/ScottKirvan/QuKi-Notes">QuKi Notes<img src="https://raw.githubusercontent.com/ScottKirvan/QuKi-Notes/refs/heads/starlines/ScottKirvan/QuKi-Notes/starline.svg" alt="starline" height="36"/></a></h3>
+Cross-platform, zero-friction scratchpad, pasteboard, & Blank canvas. For the thought that won't wait.<br>
+postamble<br>
+line one<br>
+line two <br>
 
-<img src="assets/media/QuKiNotes_small.svg" width="120" align="left" />
-<h3><a href="https://github.com/ScottKirvan/QuKi-Notes">QuKi Notes
+
+
+<h3><img src="assets/media/QuKiNotes_small.svg" width="120" align="left" />
+<a href="https://github.com/ScottKirvan/QuKi-Notes">QuKi Notes
 <img src="https://raw.githubusercontent.com/ScottKirvan/QuKi-Notes/refs/heads/starlines/ScottKirvan/QuKi-Notes/starline.svg" alt="starline" height="36"/></a></h3>
 Cross-platform, zero-friction scratchpad, pasteboard, & Blank canvas. For the thought that won't wait.<br>
 postamble<br>
