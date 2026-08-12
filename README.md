@@ -1,33 +1,36 @@
-## Hi there 👋
+## Hi there 
 
-
-<img src="https://raw.githubusercontent.com/ScottKirvan/QuKi-Notes/main/media/QuKiNotes_v2_Rainbow.svg" alt="QuKi Notes logo" width="48" />
-
-<img src="https://raw.githubusercontent.com/ScottKirvan/ScooterUtils/refs/heads/starlines/ScottKirvan/ScooterUtils/starline.svg" alt="starline" height="36"/>
+<img src="https://gitranks.com/api/badge/v2/ScottKirvan?ranking=s&context=global&type=percentile&meta=none&label=Stars+Rank&cornerStyle=rounded&labelBgColor=%235c5c5c&valueBgColor=%237c3aed" />
+<img src="https://gitranks.com/api/badge/v2/ScottKirvan?ranking=s&context=global&type=tier&meta=none&label=Stars+Rank&cornerStyle=rounded&labelBgColor=%235c5c5c&valueBgColor=%237c3aed" />
 
 discord, forums. sponsor. 
 
-<details open><summary><h2>🎮 Unreal Engine</h2></summary>
+<details open><summary><h2>Featured/Active Projects</h2></summary> 
 
-### [ScooterUtils](https://github.com/ScottKirvan/ScooterUtils) <img src="https://raw.githubusercontent.com/ScottKirvan/ScooterUtils/refs/heads/starlines/ScottKirvan/ScooterUtils/starline.svg" alt="starline" height="36"/> <br>
-Unreal Engine editor plugin bundling quality-of-life tools for artists and developers — quick file navigation, one-click project restart/reload, persistent editor settings.
+### [<sub><img src="assets/media/QuKiNotes_small.svg" width="24"/></sub><sup>QuKi-Notes</sup>](https://github.com/ScottKirvan/QuKi-Notes) <img src="https://raw.githubusercontent.com/ScottKirvan/QuKi-Notes/refs/heads/starlines/ScottKirvan/QuKi-Notes/starline.svg" alt="starline" height="36"/> 
+Cross-platform, zero-friction scratchpad, pasteboard, & Blank canvas. For the thought that won't wait.<br>
+<img src="https://api.iconify.design/lucide:sparkles.svg?color=white" /> 1 &nbsp; &nbsp;
+<a href="https://scottkirvan.github.io/QuKi-Notes/"><img src="https://api.iconify.design/lucide:book-open.svg?color=white" width="24"/></a>
+<a href="https://discord.gg/TN6XJSNK5Y"><img src="assets/media/discord-black.svg#gh-light-mode-only" alt="Discord logo" width="24" />
+<img src="assets/media/discord.svg#gh-dark-mode-only" alt="Discord logo" width="24" /></a>
+<a href="https://github.com/topics/obsidian"><img src="assets/media/obsidian-black.svg#gh-light-mode-only" alt="Obsidian logo" width="24" />
+<img src="assets/media/obsidian.svg#gh-dark-mode-only" alt="Obsidian logo" width="24" /></a>
+<a href="https://github.com/topics/flutter"><img src="assets/media/flutter-black.svg#gh-light-mode-only" alt="Flutter logo" width="24" />
+<img src="assets/media/flutter.svg#gh-dark-mode-only" alt="Flutter logo" width="24" /></a>
+markdown, windows, linux, android
+
+
+<!--
+## [ScooterUtils](https://github.com/ScottKirvan/ScooterUtils) <img src="https://raw.githubusercontent.com/ScottKirvan/ScooterUtils/refs/heads/starlines/ScottKirvan/ScooterUtils/starline.svg" alt="starline" height="36"/> 
+Unreal Engine editor plugin bundling quality-of-life tools for artists and developers â€” quick file navigation, one-click project restart/reload, persistent editor settings.
 <img src="https://api.iconify.design/lucide:sparkles.svg?color=white" /> 38 &nbsp; &nbsp;
-<a href="http://www.scottkirvan.com/ScooterUtils/"><img src="https://api.iconify.design/lucide:book-open.svg?color=white" /></a>
-<img src="assets/media/unrealengine-black.svg#gh-light-mode-only" alt="Unreal Engine logo" width="48" />
-<img src="assets/media/unrealengine.svg#gh-dark-mode-only" alt="Unreal Engine logo" width="48" />
-<img src="assets/media/cplusplus.svg" alt="C++ logo" width="48" />
-
-<img src="assets/media/unrealengine-black.svg#gh-light-mode-only" alt="Unreal Engine logo" width="120" />
-<img src="assets/media/unrealengine.svg#gh-dark-mode-only" alt="Unreal Engine logo" width="120" />
-
-test
-
-<img src="assets/media/unrealengine.svg" alt="Unreal Engine logo" width="120" />
+<a href="http://www.scottkirvan.com/ScooterUtils/"><img src="https://api.iconify.design/lucide:book-open.svg?color=white" width="24"/></a>
+<a href="https://github.com/topics/unreal-engine"><img src="assets/media/unrealengine-black.svg#gh-light-mode-only" alt="Unreal Engine logo" width="48" />
+<img src="assets/media/unrealengine.svg#gh-dark-mode-only" alt="Unreal Engine logo" width="24" /></a>
+<a href="https://github.com/topics/cpp"><img src="assets/media/cplusplus-black.svg#gh-light-mode-only" alt="C++ logo" width="24" />
+<img src="assets/media/cplusplus.svg#gh-dark-mode-only" alt="C++ logo" width="24" /></a>
 
 
-### [ScooterUtils](https://github.com/ScottKirvan/ScooterUtils)[![starline](https://raw.githubusercontent.com/ScottKirvan/ScooterUtils/refs/heads/starlines/ScottKirvan/ScooterUtils/starline.svg)](https://github.com/qoomon/starlines)
-Unreal Engine editor plugin bundling quality-of-life tools for artists and developers — quick file navigation, one-click project restart/reload, persistent editor settings.
-![C++](https://img.shields.io/badge/C%2B%2B-f34b7d?logo=cplusplus&logoColor=white) [![Docs](https://img.shields.io/badge/docs-view-blue)](https://github.com/ScottKirvan/ScooterUtils#readme)
 
 
 ### [ToolExample](https://github.com/ScottKirvan/ToolExample) ![Stars](https://img.shields.io/github/stars/ScottKirvan/ToolExample?style=social)
@@ -61,7 +64,10 @@ QuKi-Notes/
 UplinkStatus/  
 ScooterGitTemplate/     
 
+make sure everything works in the readme, including the new dark/light mode logos.
 
+link to tags/topics under each repo - make sure all repos have these, and look at setting up the repo cards for when these are searched.
 
 
 ---
+-->
