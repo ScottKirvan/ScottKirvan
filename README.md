@@ -6,7 +6,6 @@
 discord, forums. sponsor. 
 
 <details open><summary><h2>Featured/Active Projects</h2></summary> 
-
 ### [<sub><img src="assets/media/QuKiNotes_small.svg" width="24"/></sub><sup>QuKi-Notes</sup>](https://github.com/ScottKirvan/QuKi-Notes) <img src="https://raw.githubusercontent.com/ScottKirvan/QuKi-Notes/refs/heads/starlines/ScottKirvan/QuKi-Notes/starline.svg" alt="starline" height="36"/> 
 Cross-platform, zero-friction scratchpad, pasteboard, & Blank canvas. For the thought that won't wait.<br>
 <img src="https://api.iconify.design/lucide:sparkles.svg?color=white" /> 1 &nbsp; &nbsp;
