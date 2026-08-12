@@ -5,11 +5,9 @@
 <table><tr><td>discord</td></tr></table><table><tr><td>discord</td></tr></table>,forums. sponsor. 
 
 # Featured/Active Projects:
-<h3><a href="https://github.com/ScottKirvan/QuKi-Notes">
-<img src="assets/media/QuKiNotes_small.svg" width="24"/><sup>QuKi-Notes</sup> 
-<img src="https://raw.githubusercontent.com/ScottKirvan/QuKi-Notes/refs/heads/starlines/ScottKirvan/QuKi-Notes/starline.svg" alt="starline" height="36"/></a></h3>
-Cross-platform, zero-friction scratchpad, pasteboard, & Blank canvas. For the thought that won't wait.
-<img src="https://api.iconify.design/lucide:sparkles.svg?color=white" />1
+
+<img src="assets/media/QuKiNotes_v2_Rainbow.svg" width="120" align="left" /><h3><a href="https://github.com/ScottKirvan/QuKi-Notes">QuKi Notes<img src="https://raw.githubusercontent.com/ScottKirvan/QuKi-Notes/refs/heads/starlines/ScottKirvan/QuKi-Notes/starline.svg" alt="starline" height="36"/></a></h3>
+Cross-platform, zero-friction scratchpad, pasteboard, & Blank canvas.<br>
 <a href="https://scottkirvan.github.io/QuKi-Notes/"><img src="https://api.iconify.design/lucide:book-open.svg?color=white" width="24"/></a>
 <a href="https://discord.gg/TN6XJSNK5Y"><img src="assets/media/discord-black.svg#gh-light-mode-only" alt="Discord logo" width="24" />
 <img src="assets/media/discord.svg#gh-dark-mode-only" alt="Discord logo" width="24" /></a>
@@ -17,15 +15,7 @@ Cross-platform, zero-friction scratchpad, pasteboard, & Blank canvas. For the th
 <img src="assets/media/flutter.svg#gh-dark-mode-only" alt="Flutter logo" width="24" /></a>
 markdown, windows, linux, android
 
-
-<h3><img src="assets/media/QuKiNotes_v2_Rainbow.svg" width="120" align="left" />
-<a href="https://github.com/ScottKirvan/QuKi-Notes">QuKi Notes<img src="https://raw.githubusercontent.com/ScottKirvan/QuKi-Notes/refs/heads/starlines/ScottKirvan/QuKi-Notes/starline.svg" alt="starline" height="36"/></a></h3>
-Cross-platform, zero-friction scratchpad, pasteboard, & Blank canvas. For the thought that won't wait.<br>
-postamble<br>
-line one<br>
-line two <br>
-
-
+---
 
 <h3><img src="assets/media/QuKiNotes_small.svg" width="120" align="left" />
 <a href="https://github.com/ScottKirvan/QuKi-Notes">QuKi Notes
