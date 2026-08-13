@@ -18,8 +18,11 @@ Cross-platform, zero-friction scratchpad, pasteboard, & blank canvas.<br>
 <div align="center" style="margin-top: 3rem; margin-bottom: 2rem;">
 <h2>Sponsors</h2>
  <a href="https://www.sabelhawk.com/" target="_blank">
-    <img src="assets/sponsors/Sabelhawk/sabelhawk_lite.png#gh-light-mode-only" alt="Sabelhawk Studios" width="300" />
-    <img src="assets/sponsors/Sabelhawk/sabelhawk_dark.png#gh-dark-mode-only" alt="Sabelhawk Studios" width="300" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/sponsors/Sabelhawk/sabelhawk_dark.png">
+      <source media="(prefers-color-scheme: light)" srcset="assets/sponsors/Sabelhawk/sabelhawk_lite.png">
+      <img src="assets/sponsors/Sabelhawk/sabelhawk_lite.png" alt="Sabelhawk Studios" width="300" />
+    </picture>
   </a>
   <br><br>
   <p style="font-size: 1.1rem; font-weight: 600; margin-bottom: 1rem;">
