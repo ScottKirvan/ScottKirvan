@@ -24,13 +24,7 @@ Cross-platform, zero-friction scratchpad, pasteboard, & blank canvas.<br>
       <img src="assets/sponsors/Sabelhawk/sabelhawk_lite.png" alt="Sabelhawk Studios" width="300" />
     </picture>
   </a>
-  <br><br>
-  <table align="center" width="75%" border="0">
-  <tr><td align="center" style="font-size: 1.1rem; font-weight: 600;">
-    If you're enjoying these projects, if they're helping you, or saving you some time, considerbuying me a coffee or becoming a sponsor — it helps keep the projects going.
-  </td></tr>
-  </table><br>
-  <br>
+  <h3>Please support open source software:</h3>
   <div style="display: flex; gap: 12px; justify-content: center; align-items: center; flex-wrap: wrap;">
   <a href="https://ko-fi.com/ScottKirvan" target="_blank">
     <img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" alt="Support on Ko-fi"  width="160"  />
@@ -40,7 +34,7 @@ Cross-platform, zero-friction scratchpad, pasteboard, & blank canvas.<br>
   </a>
   </div>
   <br>
-Thank you! Supporting indie devs makes a real difference.
+Thank you! Your help makes a real and direct difference.
 </div>
 
 <!-- End Sponsors -->
