@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+# !/usr/bin/env python3
 """Generates the featured-projects HTML block from projects.py.
 
 Usage: python scripts/generate_featured.py
@@ -9,6 +9,7 @@ import sys
 import os
 
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+
 from projects import PROJECTS
 
 ICON_FILE_MAP = {
@@ -75,10 +76,12 @@ def render_project(p):
         title_inner += starline_html(repo)
     title = f'<h3><a href="https://github.com/{repo}">{title_inner}</a></h3>'
 
-    links_html = "".join(icon_pair_html(lnk["type"], url=lnk["url"]) for lnk in links)
+    links_html = "".join(icon_pair_html(
+        lnk["type"], url=lnk["url"]) for lnk in links)
 
     groups_html = SEPARATOR.join(
-        "".join(icon_pair_html(tag, url=f"https://github.com/topics/{tag}") for tag in group)
+        "".join(icon_pair_html(
+            tag, url=f"https://github.com/topics/{tag}") for tag in group)
         for group in tag_groups
     )
 
@@ -91,7 +94,8 @@ def render_project(p):
 
 
 def generate(projects):
-    heading = "# Featured Projects:" if len(projects) != 1 else "# Featured Project:"
+    heading = "# Featured Projects:" if len(
+        projects) != 1 else "# Featured Project:"
     lines = [heading, ""]
     for p in projects:
         lines.append(render_project(p))
@@ -103,7 +107,8 @@ def generate(projects):
 
 if __name__ == "__main__":
     script_dir = os.path.dirname(os.path.abspath(__file__))
-    out_path = os.path.join(os.path.dirname(script_dir), "featured_projects.md")
+    out_path = os.path.join(os.path.dirname(
+        script_dir), "featured_projects.md")
 
     block = generate(PROJECTS)
 

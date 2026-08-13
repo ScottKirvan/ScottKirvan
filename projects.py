@@ -28,7 +28,8 @@ PROJECTS = [
             {"type": "book-open", "url": "https://scottkirvan.github.io/BojuBot/"},
         ],
         "tag_groups": [
-            ["typescript", "obsidian", "markdown"],
+            ["obsidian", "typescript", "markdown"],
+            ["windows", "linux", "macos"],
         ],
     },
 ]
