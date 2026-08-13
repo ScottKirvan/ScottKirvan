@@ -1,6 +1,6 @@
 ## Hi there 
 
-<img src="https://gitranks.com/api/badge/v2/ScottKirvan?ranking=s&context=global&type=percentile&meta=none&label=Stars+Rank&cornerStyle=rounded&labelBgColor=%235c5c5c&valueBgColor=%237c3aed" /> <img src="https://gitranks.com/api/badge/v2/ScottKirvan?ranking=s&context=global&type=tier&meta=none&label=Stars+Rank&cornerStyle=rounded&labelBgColor=%235c5c5c&valueBgColor=%237c3aed" />
+<a href="https://gitranks.com/profile/ScottKirvan"><img src="https://gitranks.com/api/badge/v2/ScottKirvan?ranking=s&context=global&type=percentile&meta=none&label=Stars+Rank&cornerStyle=rounded&labelBgColor=%235c5c5c&valueBgColor=%237c3aed" /></a> <a href="https://gitranks.com/profile/ScottKirvan"><img src="https://gitranks.com/api/badge/v2/ScottKirvan?ranking=s&context=global&type=tier&meta=none&label=Stars+Rank&cornerStyle=rounded&labelBgColor=%235c5c5c&valueBgColor=%237c3aed" /></a>
 
 [About me](https://github.com/sponsors/ScottKirvan)
 
