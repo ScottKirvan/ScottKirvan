@@ -25,7 +25,7 @@ Cross-platform, zero-friction scratchpad, pasteboard, & blank canvas.<br>
     </picture>
   </a>
   <br><br>
-  <p style="font-size: 1.1rem; font-weight: 600; margin-bottom: 1rem;">
+  <p style="font-size: 1.1rem; font-weight: 600; margin-bottom: 1rem; max-width: 75%; margin-left: auto; margin-right: auto;">
     If you're enjoying these projects, if they're helping you, or saving you some time, considerbuying me a coffee or becoming a sponsor — it helps keep the projects going.
   </p><br>
   <div style="display: flex; gap: 12px; justify-content: center; align-items: center; flex-wrap: wrap;">
