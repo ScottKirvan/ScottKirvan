@@ -26,7 +26,7 @@ Cross-platform, zero-friction scratchpad, pasteboard, & blank canvas.<br>
   </a>
   <br><br>
   <p style="font-size: 1.1rem; font-weight: 600; margin-bottom: 1rem;">
-    If you're enjoying these projects, if they're helping you or, or saving you some time, consider<br>buying me a coffee or becoming a sponsor — it helps keep the<br> projects going.
+    If you're enjoying these projects, if they're helping you, or saving you some time, considerbuying me a coffee or becoming a sponsor — it helps keep the projects going.
   </p><br>
   <div style="display: flex; gap: 12px; justify-content: center; align-items: center; flex-wrap: wrap;">
   <a href="https://ko-fi.com/ScottKirvan" target="_blank">
