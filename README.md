@@ -1,6 +1,4 @@
-## Hi there 
-
-<a href="https://gitranks.com/profile/ScottKirvan"><img src="https://gitranks.com/api/badge/v2/ScottKirvan?ranking=s&context=global&type=percentile&meta=none&label=Stars+Rank&cornerStyle=rounded&labelBgColor=%235c5c5c&valueBgColor=%237c3aed" /></a> <a href="https://gitranks.com/profile/ScottKirvan"><img src="https://gitranks.com/api/badge/v2/ScottKirvan?ranking=s&context=global&type=tier&meta=none&label=Stars+Rank&cornerStyle=rounded&labelBgColor=%235c5c5c&valueBgColor=%237c3aed" /></a>
+## Hi there 👋
 
 [About me](https://github.com/sponsors/ScottKirvan)
 
@@ -12,7 +10,7 @@ Cross-platform, zero-friction scratchpad, pasteboard, & blank canvas.<br>
 
 ---
 
-
+<a href="https://gitranks.com/profile/ScottKirvan"><img src="https://gitranks.com/api/badge/v2/ScottKirvan?ranking=s&context=global&type=position&meta=percentile&label=Stars+Rank&cornerStyle=rounded&labelBgColor=%235c5c5c&valueBgColor=%232282c2" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://gitranks.com/profile/ScottKirvan"><img src="https://gitranks.com/api/badge/v2/ScottKirvan?ranking=c&context=global&type=position&meta=percentile&label=Contributor+Rank&cornerStyle=rounded&labelBgColor=%235c5c5c&valueBgColor=%232282c2" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://gitranks.com/profile/ScottKirvan"><img src="https://gitranks.com/api/badge/v2/ScottKirvan?ranking=f&context=global&type=position&meta=percentile&label=Followers+Rank&cornerStyle=rounded&labelBgColor=%235c5c5c&valueBgColor=%232282c2" /></a>
 <!-- Begin Sponsors -->
 
 <div align="center" style="margin-top: 3rem; margin-bottom: 2rem;">
