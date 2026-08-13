@@ -1,22 +1,20 @@
 #!/usr/bin/env python3
-"""Regenerates the Featured Projects block in README.md from projects.py.
+"""Generates the featured-projects HTML block from projects.py.
 
-Usage: python scripts/generate_featured.py [--dry-run]
+Usage: python scripts/generate_featured.py
+Output: featured_projects.md  (copy-paste into README.md where you want it)
 """
 
 import sys
 import os
-import re
 
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from projects import PROJECTS
 
-# Maps tag/type name → icon filename stem (when it differs from the tag name)
 ICON_FILE_MAP = {
     "microsoft": "microsoft-svgrepo-com",
 }
 
-# Maps tag/type name → display name for alt text
 DISPLAY_NAMES = {
     "cplusplus": "C++",
     "gnubash": "Bash",
@@ -92,47 +90,26 @@ def render_project(p):
     return f"{logo}{title}\n{description}<br>\n{bottom}"
 
 
-def generate_block(projects):
+def generate(projects):
     heading = "# Featured Projects:" if len(projects) != 1 else "# Featured Project:"
-    sections = [f"\n{heading}\n"]
+    lines = [heading, ""]
     for p in projects:
-        sections.append("\n" + render_project(p) + "\n\n---\n")
-    return (
-        "<!-- Begin Featured Projects -->\n"
-        + "".join(sections)
-        + "\n<!-- End Featured Projects -->"
-    )
-
-
-def update_readme(readme_path, block, dry_run=False):
-    with open(readme_path, "r", encoding="utf-8") as f:
-        content = f.read()
-
-    pattern = r"<!-- Begin Featured Projects -->.*?<!-- End Featured Projects -->"
-    new_content, count = re.subn(pattern, block, content, flags=re.DOTALL)
-
-    if count == 0:
-        print(
-            "WARNING: <!-- Begin Featured Projects --> marker not found in README.md.\n"
-            "Add the markers around the featured section, then re-run."
-        )
-        return False
-
-    if dry_run:
-        print("--- DRY RUN: would write the following block ---")
-        print(block)
-        return True
-
-    with open(readme_path, "w", encoding="utf-8", newline="\n") as f:
-        f.write(new_content)
-    print(f"README.md updated ({count} block replaced).")
-    return True
+        lines.append(render_project(p))
+        lines.append("")
+        lines.append("---")
+        lines.append("")
+    return "\n".join(lines).rstrip() + "\n"
 
 
 if __name__ == "__main__":
-    dry_run = "--dry-run" in sys.argv
     script_dir = os.path.dirname(os.path.abspath(__file__))
-    readme_path = os.path.join(os.path.dirname(script_dir), "README.md")
+    out_path = os.path.join(os.path.dirname(script_dir), "featured_projects.md")
 
-    block = generate_block(PROJECTS)
-    update_readme(readme_path, block, dry_run=dry_run)
+    block = generate(PROJECTS)
+
+    with open(out_path, "w", encoding="utf-8", newline="\n") as f:
+        f.write(block)
+
+    print(f"Written to {out_path}")
+    print()
+    print(block)
