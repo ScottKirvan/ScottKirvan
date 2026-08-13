@@ -10,6 +10,7 @@ PROJECTS = [
         "links": [
             {"type": "download", "url": "https://github.com/ScottKirvan/QuKi-Notes/releases"},
             {"type": "book-open", "url": "https://scottkirvan.github.io/QuKi-Notes/"},
+            {"type": "discord", "url": "https://discord.gg/TN6XJSNK5Y"},
         ],
         "tag_groups": [
             ["flutter", "markdown"],
@@ -26,6 +27,7 @@ PROJECTS = [
         "links": [
             {"type": "download", "url": "https://github.com/ScottKirvan/BojuBot/releases"},
             {"type": "book-open", "url": "https://scottkirvan.github.io/BojuBot/"},
+            {"type": "discord", "url": "https://discord.gg/TN6XJSNK5Y"},
         ],
         "tag_groups": [
             ["obsidian", "typescript", "markdown"],
