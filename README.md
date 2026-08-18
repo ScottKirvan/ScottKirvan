@@ -18,7 +18,7 @@ More than a writing assistant — BojuBot turns your Obsidian vault into a perso
 <a href="https://gitranks.com/profile/ScottKirvan"><img src="https://gitranks.com/api/badge/v2/ScottKirvan?ranking=s&context=global&type=position&meta=percentile&label=Stars+Rank&cornerStyle=rounded&labelBgColor=%235c5c5c&valueBgColor=%232282c2" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://gitranks.com/profile/ScottKirvan"><img src="https://gitranks.com/api/badge/v2/ScottKirvan?ranking=c&context=global&type=position&meta=percentile&label=Contributor+Rank&cornerStyle=rounded&labelBgColor=%235c5c5c&valueBgColor=%232282c2" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://gitranks.com/profile/ScottKirvan"><img src="https://gitranks.com/api/badge/v2/ScottKirvan?ranking=f&context=global&type=position&meta=percentile&label=Followers+Rank&cornerStyle=rounded&labelBgColor=%235c5c5c&valueBgColor=%232282c2" /></a>
 
 <p align="center">
-  <img src=" gh-space-shooter.webp" />
+  <img src="gh-space-shooter.webp" />
 </p>
 
 <!-- Begin Sponsors -->
