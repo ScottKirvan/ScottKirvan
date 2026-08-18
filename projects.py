@@ -25,7 +25,7 @@ PROJECTS = [
         "description": "More than a writing assistant — BojuBot turns your Obsidian vault into a personal AI platform.",
         "starline": True,
         "links": [
-            {"type": "download", "url": "https://github.com/ScottKirvan/BojuBot/releases"},
+            {"type": "download", "url": "https://community.obsidian.md/plugins/bojubot"},
             {"type": "book-open", "url": "https://scottkirvan.github.io/BojuBot/"},
             {"type": "discord", "url": "https://discord.gg/TN6XJSNK5Y"},
         ],
