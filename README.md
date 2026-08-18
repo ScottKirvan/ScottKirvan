@@ -19,7 +19,7 @@ More than a writing assistant — BojuBot turns your Obsidian vault into a perso
 <!-- Begin Sponsors -->
 
 <div align="center" style="margin-top: 3rem; margin-bottom: 2rem;">
- ![My GitHub Game](game.gif)
+ <img src="game.gif" />
 <h2>Sponsors</h2>
  <a href="https://www.sabelhawk.com/" target="_blank">
     <picture>
