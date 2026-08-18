@@ -22,12 +22,12 @@ A GitHub Dark High Contrast theme for Obsidian.<br>
 
 ---
 
-<p align="center">
+<div align="center" style="margin-top: 3rem; margin-bottom: 2rem;">
 
 <a href="https://gitranks.com/profile/ScottKirvan"><img src="https://gitranks.com/api/badge/v2/ScottKirvan?ranking=s&context=global&type=position&meta=percentile&label=Stars+Rank&cornerStyle=rounded&labelBgColor=%235c5c5c&valueBgColor=%232282c2" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://gitranks.com/profile/ScottKirvan"><img src="https://gitranks.com/api/badge/v2/ScottKirvan?ranking=c&context=global&type=position&meta=percentile&label=Contributor+Rank&cornerStyle=rounded&labelBgColor=%235c5c5c&valueBgColor=%232282c2" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://gitranks.com/profile/ScottKirvan"><img src="https://gitranks.com/api/badge/v2/ScottKirvan?ranking=f&context=global&type=position&meta=percentile&label=Followers+Rank&cornerStyle=rounded&labelBgColor=%235c5c5c&valueBgColor=%232282c2" /></a>
 
   <img src="gh-space-shooter.webp" />
-</p>
+</div>
 
 <!-- Begin Sponsors -->
 
