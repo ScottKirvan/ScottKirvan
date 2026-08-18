@@ -18,8 +18,11 @@ More than a writing assistant — BojuBot turns your Obsidian vault into a perso
 <a href="https://gitranks.com/profile/ScottKirvan"><img src="https://gitranks.com/api/badge/v2/ScottKirvan?ranking=s&context=global&type=position&meta=percentile&label=Stars+Rank&cornerStyle=rounded&labelBgColor=%235c5c5c&valueBgColor=%232282c2" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://gitranks.com/profile/ScottKirvan"><img src="https://gitranks.com/api/badge/v2/ScottKirvan?ranking=c&context=global&type=position&meta=percentile&label=Contributor+Rank&cornerStyle=rounded&labelBgColor=%235c5c5c&valueBgColor=%232282c2" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://gitranks.com/profile/ScottKirvan"><img src="https://gitranks.com/api/badge/v2/ScottKirvan?ranking=f&context=global&type=position&meta=percentile&label=Followers+Rank&cornerStyle=rounded&labelBgColor=%235c5c5c&valueBgColor=%232282c2" /></a>
 <!-- Begin Sponsors -->
 
+<p align="center">
+  <img src="game.gif" alt="Game Demo" width="800">
+</p>
+
 <div align="center" style="margin-top: 3rem; margin-bottom: 2rem;">
- <img src="game.gif" />
 <h2>Sponsors</h2>
  <a href="https://www.sabelhawk.com/" target="_blank">
     <picture>
