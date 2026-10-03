@@ -17,6 +17,9 @@ export default defineConfig({
     ],
     footer: {
       copyright: 'Copyright © Scott Kirvan'
+    },
+    search: {
+      provider: 'local'
     }
   }
 })
